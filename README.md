@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="https://twitter.com/NilayanBose" alt="Twitter"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/twitter.svg"></a>
-    <a href="https://www.linkedin.com/in/nilayan-bose-952378168/" alt="Linkedin"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/linkedin.svg"></a>
-    <a href="mailto:nilayanbose14@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/mail.svg"></a>
+    <a href="https://www.linkedin.com/in/nilayan-bose-952378168/" alt="Linkedin"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/linkedin.svg"></a>
+    <a href="mailto:nilayanbose14@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/gmail.svg"></a>
     <!-- <a href="#" alt="My Portfolio"><img src="assets/svg/external.svg"></a> -->
   </p>
 
