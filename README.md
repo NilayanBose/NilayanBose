@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... **Cloud Computing Projects**
 - 🤔 I’m looking for help with ... **Getting things done**
 - 💬 Ask me about ... **Anything**
-- 📫 How to reach me: ... **https://www.linkedin.com/in/nilayan-bose-952378168/**
+- 📫 How to reach me: ... **Anywhere you find me :)**
 - 😄 Pronouns: ... **HE/Him**
 - ⚡ Fun fact: ... **Deep Inside!!**
 
