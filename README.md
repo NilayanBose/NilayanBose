@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <img align="right" height="270" width="385" alt="GIF" src="https://user-images.githubusercontent.com/55025456/91633626-9a24e000-ea07-11ea-9acf-bb2727d85e44.gif" />
 
 - 🔭 I’m currently working on ... **Jekyll**
-- 🌱 I’m currently learning ... **MIcrosoft Azure Architect Technologies**
+- 🌱 I’m currently learning ... **MIcrosoft Azure**
 - 👯 I’m looking to collaborate on ... **Cloud Computing Projects**
 - 🤔 I’m looking for help with ... **Getting things done**
 - 💬 Ask me about ... **Anything**
