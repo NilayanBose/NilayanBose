@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <img align="right" height="245" width="385" alt="GIF" src="https://user-images.githubusercontent.com/55025456/91633626-9a24e000-ea07-11ea-9acf-bb2727d85e44.gif" />
 
 - 🔭 I’m currently working on ... **Web Development**
@@ -10,6 +9,7 @@
 - 📫 How to reach me: ... **Anywhere you find me :)**
 - 😄 Pronouns: ... **HE/Him**
 - ⚡ Fun fact: ... **Deep Inside!!**
+
 <br>
 
 ---
