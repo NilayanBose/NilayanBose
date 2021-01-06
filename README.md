@@ -26,6 +26,7 @@
   </p>
 
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=debdutgoswami&label=PROFILE+VIEWS" />
     <!--<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=debdutgoswami.debdutgoswami">-->
   </p>
 </p>
