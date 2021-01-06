@@ -10,7 +10,6 @@
 - 📫 How to reach me: ... **Anywhere you find me :)**
 - 😄 Pronouns: ... **HE/Him**
 - ⚡ Fun fact: ... **Deep Inside!!**
-
 <br>
 
 ---
