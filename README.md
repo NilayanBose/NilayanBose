@@ -31,8 +31,10 @@
   </p>
 </p>
 
+<!--
 ## 📈 Github Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=NilayanBose&show_icons=true&theme=material-palenight)](https://github.com/NilayanBose/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/NilayanBose/github-readme-stats)
+-->
 <!--  
 ### 📫 How to reach me:
 - Let's connect on [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ekaterina-zarudnaya-986270180/) 🤝
@@ -41,3 +43,7 @@
 <!--
 **Elronia/Elronia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+## 📈 Github Stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=NilayanBose&show_icons=true&theme=tokyonight)](https://github.com/NilayanBose/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/NilayanBose/github-readme-stats)
