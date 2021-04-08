@@ -26,11 +26,14 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=debdutgoswami&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=NilayanBose&label=PROFILE+VIEWS" />
     <!--<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=debdutgoswami.debdutgoswami">-->
   </p>
 </p>
 
+<br>
+
+---
 <!--
 ## 📈 Github Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=NilayanBose&show_icons=true&theme=material-palenight)](https://github.com/NilayanBose/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/NilayanBose/github-readme-stats)
@@ -47,3 +50,14 @@
 ## 📈 Github Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=NilayanBose&show_icons=true&theme=tokyonight)](https://github.com/NilayanBose/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/NilayanBose/github-readme-stats)
+
+
+## 📈 Github Stats
+<p align="center">
+<a href="https://github.com/NilayanBose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NilayanBose&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&icon_color=439975" alt="Nilayan's github stats"/>
+</a></p>
+<br>
+
+---
