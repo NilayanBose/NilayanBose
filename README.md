@@ -29,8 +29,7 @@
     <img src="https://komarev.com/ghpvc/?username=NilayanBose&label=PROFILE+VIEWS" />
   <a href="https://nilayanbose.github.io/"><img src="https://img.shields.io/badge/-Porfolio-blue" alt="portfoilo_site"></a>
     <!--<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=debdutgoswami.debdutgoswami">-->
-  </p>
-</p>
+  </p></p>
 <br>
 
 ---
