@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! Open to anything under the sun.....😁</i>
 
   <p align="center">
     <a href="https://twitter.com/NilayanBose" alt="Twitter"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/twitter.svg"></a>
@@ -71,15 +71,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&layout=compact&langs_count=8&card_width=447" />
 </a>
 </div>
+<br>
 
+---
 
-------------------------------------------------------------------------------
   
 
 <div align="center">
 
 <div <h2 align="center">☕ Happy Coding ☕</h2> </div> 
 <br>
-------------------------------------------------------------------------------
+\\  ----------------------------------------------  //
 </div>
 
