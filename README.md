@@ -53,11 +53,12 @@
 -->
 
 ## 📈 Github Stats
-<p align="center">
+<div align="center">
 <a href="https://github.com/NilayanBose">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NilayanBose&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&icon_color=439975" alt="Nilayan's github stats"/>
-</a></p>
+</a>
+  </div>
 <br>
 
 ---
