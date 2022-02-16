@@ -31,6 +31,7 @@
   <a href="https://nilayanbose.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-blue" alt="portfoilo_site"></a>
     <!--<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=debdutgoswami.debdutgoswami">-->
   </p></p>
+  
 <br>
 
 ---
@@ -71,6 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&layout=compact&langs_count=8&card_width=447" />
 </a>
 </div>
+
 <br>
 
 ---
