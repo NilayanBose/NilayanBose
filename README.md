@@ -23,6 +23,7 @@
     <a href="https://www.linkedin.com/in/nilayan-bose-952378168/" alt="Linkedin"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/linkedin.svg"></a>
     <a href="mailto:nilayanbose14@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/gmail.svg"></a>
     <!-- <a href="#" alt="My Portfolio"><img src="assets/svg/external.svg"></a> -->
+    <a href="mailto:nilayanbose14@gmail.com" alt="Medium"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/medium.svg"></a>
   </p>
 
   <p align="center">
@@ -39,11 +40,11 @@
 -->
 <!--  
 ### 📫 How to reach me:
-- Let's connect on [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ekaterina-zarudnaya-986270180/) 🤝
-- Sharing what I've learned on [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://zar-catherine.medium.com/) ✍🏻
+- Let's connect on [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//) 🤝
+- Sharing what I've learned on [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://.medium.com/) ✍🏻
 -->
 <!--
-**Elronia/Elronia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!--
@@ -53,12 +54,32 @@
 -->
 
 ## 📈 Github Stats
-<div align="center">
-<a href="https://github.com/NilayanBose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NilayanBose&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&icon_color=439975" alt="Nilayan's github stats"/>
-</a>
-  </div>
+<!--
+<p align="center">
+<a href="https://github.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&icon_color=439975" alt=" github stats"/>
+</a></p>
 <br>
+-->
 
----
+<div align="center">
+<a href="https://github.com/NilayanBose/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=NilayanBose&show_icons=true" />
+</a>
+<a href="https://github.com/NilayanBose/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilayanBose&layout=compact&langs_count=8&card_width=447" />
+</a>
+</div>
+
+
+------------------------------------------------------------------------------
+  
+
+<div align="center">
+
+<div <h2 align="center">☕ Happy Coding ☕</h2> </div> 
+<br>
+------------------------------------------------------------------------------
+</div>
+
