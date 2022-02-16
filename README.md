@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/nilayan-bose-952378168/" alt="Linkedin"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/linkedin.svg"></a>
     <a href="mailto:nilayanbose14@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/gmail.svg"></a>
     <!-- <a href="#" alt="My Portfolio"><img src="assets/svg/external.svg"></a> -->
-    <a href="mailto:nilayanbose14@gmail.com" alt="Medium"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/medium.svg"></a>
+    <!--<a href="mailto:nilayanbose14@gmail.com" alt="Medium"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/medium.svg"></a>-->
   </p>
 
   <p align="center">
