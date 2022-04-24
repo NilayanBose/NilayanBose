@@ -19,7 +19,8 @@
   <i>Let's connect and chat! Open to anything under the sun.....😁</i>
 
   <p align="center">
-    <a href="#" alt="Medium"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/medium-tile.svg" height="46px" width="46px"></a>
+    <a href="https://medium.com/@nilayanbose14" alt="Medium"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/medium-tile.svg" height="46px" width="46px"></a>
+    <!--<a href="#" alt="Medium"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/medium-tile.svg" height="46px" width="46px"></a>-->
     <a href="https://twitter.com/NilayanBose" alt="Twitter"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/twitter.svg"></a>
     <a href="https://www.linkedin.com/in/nilayan-bose-952378168/" alt="Linkedin"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/linkedin.svg"></a>
     <a href="mailto:nilayanbose14@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/gmail.svg"></a>
