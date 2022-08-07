@@ -24,7 +24,7 @@
     <a href="https://twitter.com/NilayanBose" alt="Twitter"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/twitter.svg"></a>
     <a href="https://www.linkedin.com/in/nilayan-bose-952378168/" alt="Linkedin"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/linkedin.svg"></a>
     <a href="mailto:nilayanbose14@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/gmail.svg"></a>
-    <a href="https://dev.to/nilayanbose" target="_blank" alt="Medium"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/dev-to-svgrepo-com.svg" height="46px" width="46px"></a>
+    <a href="https://dev.to/nilayanbose" alt="Medium"target="_blank"><img src="https://raw.githubusercontent.com/NilayanBose/NilayanBose/master/assets/dev-to-svgrepo-com.svg" height="46px" width="46px"></a>
     <!-- <a href="#" alt="My Portfolio"><img src="assets/svg/external.svg"></a> -->
     
   </p>
