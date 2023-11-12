@@ -80,7 +80,10 @@
 
 ---
 
-  
+[![An image of @nilayanbose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nilayanbose)](https://holopin.io/@nilayanbose)
+<br>
+
+---
 
 <div align="center">
 
@@ -88,4 +91,5 @@
 <br>
 👨‍💻.....................................👨‍💻
 </div>
+
 
